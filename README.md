@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> Hey there! I'm Rodrigo.</h2>
+<img align="right" alt="GIF" src="https://s4.gifyu.com/images/homef999619503045bfe.gif" width="500"/>
 
-<!--
-**rodrigoruan/rodrigoruan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 Sobre Mim </h3>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; Atualmente estudando desenvolvimento web na Trybe
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções.
+- 💼 &nbsp; Desenvolvedor de Software web e Mobile.
+- ☕ &nbsp;  Eu acredito que um copo de café possa melhorar qualquer estresse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Java | C++  
+- 🌐 &nbsp; Android | React Native | HTML | CSS | JavaScript 
+- 🛢 &nbsp; MySQL | Firebase
+- 🔧 &nbsp; Android Studio | Visual Studio code |  Git
+
+</br>
+
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoruan)
