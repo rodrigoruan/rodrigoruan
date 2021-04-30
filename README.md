@@ -10,8 +10,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++  
-- 🌐 &nbsp; Android | React Native | HTML | CSS | JavaScript 
+- 💻 &nbsp; Python | JavaScript | C++  
+- 🌐 &nbsp; Android | React Native | HTML | CSS 
 - 🛢 &nbsp; MySQL | Firebase
 - 🔧 &nbsp; Android Studio | Visual Studio code |  Git
 
