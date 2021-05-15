@@ -12,7 +12,6 @@
 
 - 💻 &nbsp; Python | JavaScript | C++  
 - 🌐 &nbsp; Android | React Native | HTML | CSS 
-- 🛢 &nbsp; MySQL | Firebase
 - 🔧 &nbsp; Android Studio | Visual Studio code |  Git
 
 </br>
