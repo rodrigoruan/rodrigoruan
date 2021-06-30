@@ -16,4 +16,4 @@
 
 </br>
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoruan)
+[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoruan)](https://github.com/rodrigoruan/github-readme-stats)
