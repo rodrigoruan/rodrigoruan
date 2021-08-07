@@ -48,8 +48,6 @@ Olá, me chamo **Rodrigo Ruan**, sou de Itajubá, Brasil e atualmente estou estu
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoruan&layout=compact&theme=graywhite&title_color=268bd2%22%20alt=%22johnatas-henrique" />
 </p>
 
-   <img align="center" src="https://camo.githubusercontent.com/a7d6db8097ef83554c6108a9739819c304f1ef06447c8b25b19256a467862974/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6a756c696f66696c697a7a6f6c61267468656d653d7768697465"/>
-
 <br />
 <br />
 
