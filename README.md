@@ -40,11 +40,6 @@ Olá, me chamo **Rodrigo Ruan**, sou de Itajubá, Brasil e atualmente estou estu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 </p>
 
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoruan&layout=compact&theme=graywhite&title_color=268bd2%22%20alt=%22johnatas-henrique" />
-</p>
-
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigoruan&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="rodrigoruan" />
 </p>
