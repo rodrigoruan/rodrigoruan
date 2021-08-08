@@ -41,7 +41,7 @@ Olá, me chamo **Rodrigo Ruan**, sou de Itajubá, Brasil e atualmente estou estu
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigoruan&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="rodrigoruan" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigoruan&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="rodrigoruan" />
 </p>
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigoruan&theme=default)](https://git.io/streak-stats)
