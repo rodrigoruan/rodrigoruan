@@ -46,7 +46,6 @@ Olá, me chamo **Rodrigo Ruan**, sou de Itajubá, Brasil e atualmente estou estu
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigoruan&theme=default)](https://git.io/streak-stats)
 
-
 <br />
 <br />
 
