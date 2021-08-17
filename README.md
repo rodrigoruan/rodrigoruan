@@ -14,7 +14,7 @@ Olá, me chamo **Rodrigo Ruan**, sou de Itajubá, Brasil e atualmente estou estu
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 No momento estou estudando React Native e React focado no desenvolvimento **Front-End** e **Mobile**;
+- 👨🏽‍💻 No momento estou estudando MySQL e Kotlin focado no desenvolvimento **Back-End** e **Mobile**;
 - 🤔 Meus hobbies são jogos online e séries;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
