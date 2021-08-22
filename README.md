@@ -1,11 +1,13 @@
 <a href="https://github.com/rodrigoruan" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
+
 <a href="https://www.linkedin.com/in/rodrigo-ruan/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
 <br />
+
 <br />
 
 Olá, me chamo **Rodrigo Ruan**, sou de Itajubá, Brasil e atualmente estou estudando na **Trybe** 🚀. 
@@ -21,6 +23,7 @@ Olá, me chamo **Rodrigo Ruan**, sou de Itajubá, Brasil e atualmente estou estu
 - 📫 Por favor, envie um email para **rodrigopython16@gmail.com** para me encontrar.
 
 <br />
+
 <br />
 
 **Linguagens e ferramentas:**  
