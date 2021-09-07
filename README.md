@@ -48,6 +48,7 @@ Olá, me chamo **Rodrigo Ruan**, sou de Itajubá, Brasil e atualmente estou estu
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigoruan&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="rodrigoruan" />
 </p>
+
 <br />
 
   ⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)
