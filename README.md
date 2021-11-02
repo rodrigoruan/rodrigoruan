@@ -2,7 +2,7 @@
 
 I'm a web / mobile developer, currently studying Node and Flutter.
 
-I love to code and my programming languages and tools are
+I love to code and my programming languages / tools are
 <br/>
 JavaScript, React, React Native, Redux, CSS3, HTML5, Git, MongoDB, Node, Bootstrap, MySQL, Python and C++.
 
