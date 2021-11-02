@@ -2,6 +2,10 @@
 
 I'm a web / mobile developer, currently studying Node and Flutter.
 
+I love to code and my programming languages and tools are
+<br/>
+JavaScript, React, React Native, Redux, CSS3, HTML5, Git, MongoDB, Node, Bootstrap, MySQL, Python and C++.
+
 My hobbies are watch animes (berserk is the best!) and study competitive programming.
 You can see my solved problems at:
 <br/>
