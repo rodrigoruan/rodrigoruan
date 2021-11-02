@@ -9,7 +9,7 @@ You can see my solved problems at:
 <br/>
 [URI Online Judge](https://www.beecrowd.com.br/judge/pt/profile/544334)
 <br/>
-[CodinGame](https://www.codingame.com/profile/72398efce9e8fff752e10af0f47415381021524).
+[CodinGame](https://www.codingame.com/profile/72398efce9e8fff752e10af0f47415381021524)
 
 Please if you want to contact me dont hesitate.
 [LinkedIn](https://www.linkedin.com/in/rodrigo-ruan/)
