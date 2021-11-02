@@ -1,48 +1,9 @@
-<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif>
+## Hello, my name is Rodrigo Ruan! :nerd_face:
 
-<br />
+I'm a web / mobile developer, currently studying Node and Flutter.
 
-<br />
+My hobbies are watch animes (berserk is the best!) and study competitive programming, you can see my solved problems at [Codewars](https://www.codewars.com/users/rodrigo%20ruan), [URI Online Judge](https://www.beecrowd.com.br/judge/pt/profile/544334) and [CodinGame](https://www.codingame.com/profile/72398efce9e8fff752e10af0f47415381021524).
 
-Olá, me chamo **Rodrigo Ruan**, sou de Itajubá, Brasil e atualmente estou estudando na **Trybe** 🚀. 
-
-**Meus interesses pessoais:**
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
-
-- 👨🏽‍💻 No momento estou estudando Node.js focado no desenvolvimento **Back-End**;
-- 🤔 Meus hobbies são jogos online e séries;
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para **rodrigopython16@gmail.com** para me encontrar.
-
-<br />
-
-<br />
-
-**Linguagens e ferramentas:**  
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-</p>
-
-<br />
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigoruan&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="rodrigoruan" />
-</p>
-
-<br />
-
-  ⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)
+Please if you want to contact me dont hesitate.
+[LinkedIn](https://www.linkedin.com/in/rodrigo-ruan/)
+[Gmail](mailto:rodrigopython16@gmail.com)
