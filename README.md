@@ -15,7 +15,7 @@ You can see my solved problems at:
 <br/>
 [CodinGame](https://www.codingame.com/profile/72398efce9e8fff752e10af0f47415381021524)
 
-If you want to contact me please dont hesitate.
+If you want to contact me, please don't hesitate.
 <br/>
 [LinkedIn](https://www.linkedin.com/in/rodrigo-ruan/)
 <br/>
