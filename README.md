@@ -11,7 +11,7 @@ JavaScript, React, React Native, Redux, CSS3, HTML5, Git, MongoDB, Node, Bootstr
 My hobbies are watching animes (berserk is the best!) and studying competitive programming.
 You can see my solved problems at:
 <br/>
-[Codewars](https://www.codewars.com/users/rodrigo%20ruan), [URI Online Judge](https://www.beecrowd.com.br/judge/pt/profile/544334) e [CodinGame](https://www.codingame.com/profile/72398efce9e8fff752e10af0f47415381021524).
+[Codewars](https://www.codewars.com/users/rodrigo%20ruan), [URI Online Judge](https://www.beecrowd.com.br/judge/pt/profile/544334) and [CodinGame](https://www.codingame.com/profile/72398efce9e8fff752e10af0f47415381021524).
 
 If you want to contact me.
 <br/>
