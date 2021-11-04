@@ -1,10 +1,10 @@
 ## Hello, my name is Rodrigo Ruan! :nerd_face:
 
-I'm a web / mobile developer, currently studying Node and Flutter.
+I'm a software engineer, currently studying Node and Flutter.
 
 Studying web development at @betrybe and CS at @UAM.
 
-I love to code and my programming languages / tools are
+I love writing codes and my skills are
 <br/>
 JavaScript, React, React Native, Redux, CSS3, HTML5, Git, MongoDB, Node, Bootstrap, MySQL, Python and C++.
 
