@@ -2,9 +2,7 @@
 
 I'm a software engineer, currently studying Node and Flutter.
 
-In 2021 I started to study at Trybe to learn web development and I loved
-it, in the same year I started at Universade Anhembi Morumbi too, where
-I'm graduating at Science Computer.
+I'm studying web development at @trybe and CS at @UAM.
 
 I love writing codes and my skills are
 <br/>
