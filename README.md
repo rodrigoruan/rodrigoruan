@@ -21,10 +21,6 @@ Some utils:
 
 Binary Search:
 ```bash
-#include <bits/stdc++.h>
-
-using namespace std;
-
 int main(vector<int>& nums, int target) {
   int L = 0, R = nums.size() - 1;
   while (L <= R) {
@@ -39,10 +35,6 @@ int main(vector<int>& nums, int target) {
 
 Bubble Sort:
 ```bash
-#include <bits/stdc++.h>
-
-using namespace std;
-
 vector<int> solution(vector<int> nums) {
   for(int i = 0; i < nums.size(); i++) {
     for(int j = 0; j < nums.size(); j++) {
