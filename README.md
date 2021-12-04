@@ -10,7 +10,6 @@ JavaScript, React, React Native, Redux, CSS3, HTML5, Git, MongoDB, Node, Bootstr
 
 My hobbies are watching animes (berserk is the best!) and studying competitive programming.
 You can see my solved problems at:
-
 <br/>
 
 <a href="https://www.codewars.com/users/rodrigo%20ruan">Codewars</a> |
