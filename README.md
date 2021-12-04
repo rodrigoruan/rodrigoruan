@@ -19,7 +19,7 @@ You can see my solved problems at:
 
 Some utils:
 
-Binary Search - time complexity O(log n):
+Binary Search:
 ```bash
 int main(vector<int>& nums, int target) {
   int L = 0, R = nums.size() - 1;
@@ -33,7 +33,7 @@ int main(vector<int>& nums, int target) {
 }
 ```
 
-Bubble Sort - time complexity O(log n²):
+Bubble Sort:
 ```bash
 vector<int> solution(vector<int> nums) {
   for(int i = 0; i < nums.size(); i++) {
