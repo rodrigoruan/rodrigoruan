@@ -19,7 +19,7 @@ You can see my solved problems at:
 
 Some utils:
 
-Binary Search - C++:
+Binary Search:
 ```bash
 #include <bits/stdc++.h>
 
@@ -34,6 +34,26 @@ int main(vector<int>& nums, int target) {
     else R = mid - 1;
   }
   return -1;
+}
+```
+
+Bubble Sort:
+```bash
+#include <bits/stdc++.h>
+
+using namespace std;
+
+vector<int> solution(vector<int> nums) {
+  for(int i = 0; i < nums.size(); i++) {
+    for(int j = 0; j < nums.size(); j++) {
+      if(nums[i] < nums[j]) {
+        int temp = nums[j];
+        nums[j] = nums[i];
+        nums[i] = temp;
+      }
+    }
+  }
+  return nums;
 }
 ```
 
