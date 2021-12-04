@@ -33,7 +33,7 @@ int main(vector<int>& nums, int target) {
 }
 ```
 
-Bubble Sort:
+Select Sort:
 ```bash
 vector<int> solution(vector<int> nums) {
   for(int i = 0; i < nums.size(); i++) {
