@@ -1,6 +1,6 @@
 ## Hello, my name is Rodrigo Ruan! :nerd_face:
 
-<img src="https://www.codewars.com/users/rodrigo%20ruan/badges/large" href="https://www.codewars.com/users/rodrigo%20ruan" target="_blank" />
+<img src="https://www.codewars.com/users/rodrigo%20ruan/badges/small" href="https://www.codewars.com/users/rodrigo%20ruan" target="_blank" />
 
 I'm a software engineer, currently studying Node and Flutter.
 
