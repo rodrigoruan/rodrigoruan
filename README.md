@@ -6,7 +6,7 @@ I'm studying web development at @trybe and CS at @UAM.
 
 I love writing codes and my skills are
 <br/>
-JavaScript, React, React Native, Redux, CSS3, HTML5, Git, MongoDB, Node, Bootstrap, MySQL, Python and C++.
+JavaScript, Typescript, Python, C++, React, React Native, Redux, HTML5, CSS3, Bootstrap, Docker, Node.js, Express.js, NestJS, MySQL, MongoDB, SQLite, PostgreSQL, Prisma, Redis, Git, DigitalOcean services...
 
 My hobbies are watching animes (berserk is the best!) and studying competitive programming.
 You can see my solved problems at:
