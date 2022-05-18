@@ -1,14 +1,11 @@
 <img src="https://www.codewars.com/users/rodrigo%20ruan/badges/large" href="https://www.codewars.com/users/rodrigo%20ruan" target="_blank" />
 
-I'm a software engineer, currently studying Node and Flutter.
-
 I'm studying web development at @trybe and CS at @UAM.
 
-I love writing codes and my skills are
+My skills are:
 <br/>
 JavaScript, Typescript, Python, C++, React, React Native, Redux, HTML5, CSS3, Bootstrap, Docker, Node.js, Express.js, NestJS, MySQL, MongoDB, SQLite, PostgreSQL, Prisma, Redis, Git, DigitalOcean services, Salesforce Commerce Cloud, JQuery...
 
-My hobbies are watching animes (berserk is the best!) and studying competitive programming.
 You can see my solved problems at:
 <br/>
 
@@ -17,4 +14,4 @@ You can see my solved problems at:
 <a href="https://www.codingame.com/profile/72398efce9e8fff752e10af0f47415381021524">CodinGame</a> |
 <a href="https://codeforces.com/profile/rodrigoruan16">Codeforces</a>
 
-![Metrics](https://metrics.lecoq.io/rodrigoruan?template=terminal&base.metadata=1&base.indepth=false&config.timezone=America%2FSao_Paulo&config.display=columns)
+![Metrics](https://metrics.lecoq.io/rodrigoruan?template=terminal&base.metadata=0&base.indepth=false&config.timezone=America%2FSao_Paulo&config.display=columns&config.padding=0%2C%200%20%2B%200%25)
