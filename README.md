@@ -13,5 +13,3 @@ You can see my solved problems at:
 <a href="https://www.beecrowd.com.br/judge/pt/profile/544334">URI Online Judge</a> |
 <a href="https://www.codingame.com/profile/72398efce9e8fff752e10af0f47415381021524">CodinGame</a> |
 <a href="https://codeforces.com/profile/rodrigoruan16">Codeforces</a>
-
-![Metrics](https://metrics.lecoq.io/rodrigoruan?template=terminal&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=America%2FSao_Paulo)
