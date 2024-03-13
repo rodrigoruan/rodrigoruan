@@ -14,7 +14,7 @@ Codewars: https://www.codewars.com/users/rodrigo%20ruan
 
 Beecrowd: https://judge.beecrowd.com/pt/profile/544334
 
-HackerRank Certificaions: https://www.hackerrank.com/certificates/7249d257dd88
+HackerRank Certifications: https://www.hackerrank.com/certificates/7249d257dd88
 
 Trybe Certifications: https://www.credential.net/profile/rodrigoruansouzaviana891684/wallet
 
