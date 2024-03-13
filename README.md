@@ -4,6 +4,9 @@ Studying Computer Science at Federal University of Itajubá (UNIFEI).
 
 Interested in everything related to competitive programming, data structures and algorithms.
 
+
+Links to connect with me:
+
 Salesforce Certifications: https://www.salesforce.com/trailblazer/rodrigoruan
 
 Codewars: https://www.codewars.com/users/rodrigo%20ruan
