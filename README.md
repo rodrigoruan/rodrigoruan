@@ -13,3 +13,5 @@ Salesforce Certifications: https://www.salesforce.com/trailblazer/rodrigoruan
 Codewars: https://www.codewars.com/users/rodrigo%20ruan
 
 Beecrowd: https://judge.beecrowd.com/pt/profile/544334
+
+Neps Academy: https://neps.academy/br/user/23258
